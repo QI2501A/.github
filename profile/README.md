@@ -52,34 +52,47 @@ git pull origin main
 
 ⸻
 
-#Basic Commands 📚
+# Basic Commands 📚
 
-# Clone a repository
+## Clone a repository
+```
 git clone <repository-url>
+```
 
-# Check the status
+## Check the status
+```
 git status
+```
 
-# Create a branch
+## Create a branch
+```
 git checkout -b <branch-name>
+```
 
-# Stage changes
+## Stage changes
+```
 git add .
+```
 
-# Commit changes
+## Commit changes
+```
 git commit -m "Your commit message"
+```
 
-# Push your branch
+## Push your branch
+```
 git push origin <branch-name>
+```
 
-# Pull the latest changes
+## Pull the latest changes
+```
 git pull origin main
-
+```
 
 
 ⸻
 
-Tips for a Smooth Experience 🌟
+# Tips for a Smooth Experience 🌟
 	•	Stay Updated: Regularly sync your local repo.
 	•	Ask for Help: Reach out if you have questions.
 	•	Experiment: Use branches to try new ideas.
@@ -87,7 +100,7 @@ Tips for a Smooth Experience 🌟
 
 ⸻
 
-Resources 🔗
+# Resources 🔗
 	•	GitHub Docs
 	•	Git Handbook
 	•	Learn Git Branching
