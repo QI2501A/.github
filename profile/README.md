@@ -27,7 +27,8 @@ git clone https://github.com/YourOrganization/RepositoryName.git
 ```
 ### 3. Create a Branch
 
-```git checkout -b feature/your-feature-name
+```
+git checkout -b feature/your-feature-name
 ```
 ### 4. Commit Your Changes
 ```
